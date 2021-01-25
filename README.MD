@@ -1,6 +1,6 @@
 # SISTEMA DA CENTRAL DE ESTÁGIO DA FATEC OURINHOS
 
-Aplicação python WEB desenvolvida com Flask para gerenciar o processo de estágio supervisionado dos alunos da Faculdade de Tecnologia de Ourinhos.
+Aplicação python desenvolvida com Flask para gerenciar o processo de estágio supervisionado dos alunos da Faculdade de Tecnologia de Ourinhos.
 
 ### TECH:
 
